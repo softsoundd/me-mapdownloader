@@ -1,0 +1,13 @@
+{
+    "Custom Maps": [
+      {"name": "Map 1", "url": "https://example.com/map1.zip", "description": "Description here"},
+      {"name": "Map 2", "url": "https://example.com/map2.zip", "description": "Description here"}
+    ],
+    "Custom Time Trials": [
+      {"name": "Trial 1", "url": "https://example.com/trial1.zip", "description": "Description here"}
+    ],
+    "Story Experiences": [
+      {"name": "Story 1", "url": "https://example.com/story1.zip", "description": "Description here"}
+    ]
+  }
+  
