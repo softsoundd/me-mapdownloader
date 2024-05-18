@@ -1,13 +1,13 @@
 {
     "Custom Maps": [
-      {"name": "Map 1", "url": "https://example.com/map1.zip", "description": "Description here"},
+      {"name": "Rendering World 2.0", "url": "https://example.com/map1.zip", "description": "Story: Faith has to talk with Jacknife but some things start going wrong because she discovers something she never had to.\nThis map contains:\n- 5 Hidden bags\n- A Jacknife Chase\n- Very detailed map\n- Level streaming for less lag\n- Very good illumination\n- Some secret scenes and dialogs\n- Rain", "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"},
       {"name": "Map 2", "url": "https://example.com/map2.zip", "description": "Description here"}
     ],
     "Custom Time Trials": [
       {"name": "Trial 1", "url": "https://example.com/trial1.zip", "description": "Description here"}
     ],
     "Story Experiences": [
-      {"name": "Story 1", "url": "https://example.com/story1.zip", "description": "Description here"}
+      {"name": "Rainy Mod", "url": "https://example.com/story1.zip", "description": "Rainy Mod is a WIP project with the envision to make the whole game with a rainy weather mood. It contains Real Time Reflections, Parallax Cube Maps, dynamic wet/dry clothing, new rain particles, new sounds and more. The following mod contains Training Zone and Prologue, both can be played through the story mode and/or do Time Trials on them.", "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/1.jpg?raw=true"}
     ]
   }
   
