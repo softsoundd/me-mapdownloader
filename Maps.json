@@ -1,7 +1,91 @@
 {
     "Custom Maps": [
-      {"name": "Rendering World 2.0", "url": "https://example.com/map1.zip", "description": "Story: Faith has to talk with Jacknife but some things start going wrong because she discovers something she never had to.\nThis map contains:\n- 5 Hidden bags\n- A Jacknife Chase\n- Very detailed map\n- Level streaming for less lag\n- Very good illumination\n- Some secret scenes and dialogs\n- Rain", "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"},
-      {"name": "Map 2", "url": "https://example.com/map2.zip", "description": "Description here"}
+
+      {"name": "Rendering World 2.0",
+      "url": "https://example.com/map1.zip",
+      "description": "Story: Faith has to talk with Jacknife but some things start going wrong because she discovers something she never had to.\nThis map contains:\n- 5 Hidden bags\n- A Jacknife Chase\n- Very detailed map\n- Level streaming for less lag\n- Very good illumination\n- Some secret scenes and dialogs\n- Rain",
+      "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"},
+
+      {"name": "Map 2",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 3",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 4",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 5",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 6",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 7",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 8",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 9",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 10",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 11",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 12",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 13",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 14",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 15",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 16",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 17",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 18",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 19",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 20",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 21",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"}
+
     ],
     "Custom Time Trials": [
       {"name": "Trial 1", "url": "https://example.com/trial1.zip", "description": "Description here"}
