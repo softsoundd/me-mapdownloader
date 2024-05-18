@@ -84,6 +84,14 @@
 
       {"name": "Map 21",
       "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 22",
+      "url": "https://example.com/map2.zip",
+      "description": "Description here"},
+
+      {"name": "Map 23",
+      "url": "https://example.com/map2.zip",
       "description": "Description here"}
 
     ],
