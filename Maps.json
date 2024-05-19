@@ -1,105 +1,260 @@
 {
     "Custom Maps": [
 
+      {"name": "Retrowave City",
+      "by": "[RBS] Dominicus",
+      "date": "Jan 5th, 2024",
+      "url": "https://example.com/map2.zip",
+      "description": "Immerse yourself in the retrowave atmosphere in one of the best parkour games."},
+
+      {"name": "High Flight",
+      "by": "[RBS] Dominicus",
+      "date": "Apr 29th, 2023",
+      "url": "https://example.com/map2.zip",
+      "description": "Faith must deliver a package to Celeste while running through dangers."},
+
+      {"name": "Authority",
+      "by": "Keko",
+      "date": "Mar 21st, 2023",
+      "url": "https://example.com/map2.zip",
+      "description": "In the authority zone, you've made the decision to retrieve the secret bag that's crucial to all of the runners. Unfortunately a so-called \"Special Unit\" has interrupted the mission before Faith."},
+
+      {"name": "Sunrise Countdown",
+      "by": "Keku",
+      "date": "Nov 18th, 2022",
+      "url": "https://example.com/map2.zip",
+      "description": "My submission for the level design jam by Steeve Lee. Level is finished and can be playable from start to finish, unfortunately I didnt have enough time to finish the background and a few more gameplay sections. The map is highly inspired from MEC and yes I did use assets from such game."},
+
+      {"name": "Prison Break",
+      "by": "Koce92",
+      "date": "Jul 15th, 2022",
+      "url": "https://example.com/map2.zip",
+      "description": "Prison level inspired by the concept art."},
+
+      {"name": "Edgehill",
+      "by": "Lipticon",
+      "url": "https://example.com/map2.zip",
+      "description": "Join Faith on an adventure through Down Town to drop of a package."},
+
+      {"name": "Feel The Wind",
+      "by": "Cratornugget",
+      "date": "Aug 12th, 2021",
+      "url": "https://example.com/map2.zip",
+      "description": "No description."},
+
+      {"name": "Facade",
+      "by": "NoahFreedom",
+      "date": "Feb 26th, 2021",      
+      "url": "https://example.com/map2.zip",
+      "description": "Faith has to pickup a bag that was left behind by another runner due to the patrol route the CPF take there everyday."},
+
+      {"name": "Leap Of Faith 2.0",
+      "by": "Keku",
+      "date": "Sep 7th, 2020",      
+      "url": "https://example.com/map2.zip",
+      "description": "Leap of Faith 2.0 introduces a complete lighting overhaul with minor bug fixes and new custom content such as custom music tracks made by Nakuhito."},
+
+      {"name": "Armistice",
+      "by": "Keku",
+      "date": "Aug 23rd, 2020",      
+      "url": "https://example.com/map2.zip",
+      "description": "Faith has to deliver a bag to Celeste in a sunrise city while most of the town is still sleeping."},
+
+      {"name": "Pre-Prologue Run",
+      "by": "Theironlefty",
+      "date": "May 29th, 2020",      
+      "url": "https://example.com/map2.zip",
+      "description": "Typical day for Faith, delivery of the bag pre-Prologue."},
+
+      {"name": "Coronao",
+      "by": "Coronaooo",
+      "date": "Apr 1st, 2020",      
+      "url": "https://example.com/map2.zip",
+      "description": "Coronavirus invaded the city of Glass, help Faith to wash her hands."},
+
+      {"name": "Lunch Break",
+      "by": "TCtully",
+      "date": "Apr 23rd, 2019",      
+      "url": "https://example.com/map2.zip",
+      "description": "The client has left their package for pickup in their office, near Westside Commons. Merc puts Faith on the job, once she picks up the package she is to deliver it a few blocks East, but things never go according to plan."},
+
+      {"name": "Oranga",
+      "by": "Glost999",
+      "date": "Dec 25th, 2018",      
+      "url": "https://example.com/map2.zip",
+      "description": "No description."},
+
+      {"name": "The City at Alert",
+      "by": "steveglowplunk",
+      "date": "Aug 20th, 2018",      
+      "url": "https://example.com/map2.zip",
+      "description": "After the events in the main game, Faith hid for months until an anonymous tracker offers her a job to retrieve a runner bag. Running out of money, Faith decides to take on the run despite being wanted by the CPF."},
+
+      {"name": "Celeste and Faith escape aka Edge_Pee",
+      "by": "VeryFatFaith",
+      "date": "Apr 2nd, 2018",      
+      "url": "https://example.com/map2.zip",
+      "description": "Best map ever. Contains everything you may have wanted from a Mirror's Edge map. Make sure you give triforce Kate a kick."},
+
+      {"name": "Freedom Map",
+      "by": "Foxy4",
+      "date": "May 8th, 2018",      
+      "url": "https://example.com/map2.zip",
+      "description": "Explore the open world, collect information, help people, find secrets and have fun!"},
+
+      {"name": "Prototype Remake",
+      "by": "steveglowplunk",
+      "date": "Aug 13th, 2017",      
+      "url": "https://example.com/map2.zip",
+      "description": "This is my attempt at recreating the Mirror's Edge's prototype."},
+
+      {"name": "Twisted Fate",
+      "by": "Koce92",
+      "date": "Dec 12th, 2015",      
+      "url": "https://example.com/map2.zip",
+      "description": "At least 30 minutes of gameplay filled with puzzles, parkour and action. This map also has 7 hidden bags to find."},
+
+      {"name": "Intrusion Level",
+      "by": "Mishkin",
+      "date": "Jul 10th, 2015",      
+      "url": "https://example.com/map2.zip",
+      "description": "Step into Faith's shoes before the events of Mirror's Edge, and parkour your way through roofs, parking garages, and office buildings as you try to infiltrate a facility that you believe acts as a front against other runners."},
+
       {"name": "Rendering World 2.0",
+      "by": "Keku",
+      "date": "Dec 27th, 2014",
       "url": "https://example.com/map1.zip",
-      "description": "Story: Faith has to talk with Jacknife but some things start going wrong because she discovers something she never had to.\nThis map contains:\n- 5 Hidden bags\n- A Jacknife Chase\n- Very detailed map\n- Level streaming for less lag\n- Very good illumination\n- Some secret scenes and dialogs\n- Rain",
+      "description": "Story: Faith has to talk with Jacknife, but some things start going wrong because she discovers something she never thought she would.\nThis map contains:\n- 5 Hidden bags\n- A Jacknife Chase\n- Very detailed map\n- Level streaming for less lag\n- Very good illumination\n- Some secret scenes and dialogs\n- Rain",
       "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"},
 
-      {"name": "Really really really long name",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
+      {"name": "Troubles In The Skyscraper",
+      "by": "Keku",
+      "date": "Aug 27th, 2014",
+      "url": "https://example.com/map1.zip",
+      "description": "Faith returned to The Shard to pick up a bag, but she gets detected and has to escape from there.",
+      "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"},
 
-      {"name": "Map 3",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
+      {"name": "Enjoy The Movement 2.0",
+      "by": "Keku",
+      "date": "Aug 24th, 2014",
+      "url": "https://example.com/map1.zip",
+      "description": "Faith has stolen a bag and she has to give it to Kreeg.",
+      "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"},
 
-      {"name": "Map 4",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
+      {"name": "Next, On The Night",
+      "by": "stas",
+      "date": "Apr 13, 2011",
+      "url": "https://example.com/map1.zip",
+      "description": "Faith has to carry out a new assignment while on night shift. Merc has received some strange signals from Celeste's mobile phone on one of the rooftops. He wants Faith to investigate this signal. Faith decides to carry this Assignment out at night to avoid being spotted by Blues, but little does she know that Celeste may be planning something rather... unexpected.",
+      "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"},
 
-      {"name": "Map 5",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
+      {"name": "The White City",
+      "by": "MSIP35",
+      "date": "Apr 11, 2011",
+      "url": "https://example.com/map1.zip",
+      "description": "A beautiful, bustling city made in the same style as the stock Mirror's Edge City. This map is huge. NOT free roam. Be prepared to dodge cops and rampage through large interiors including warehouses, offices and building sites.",
+      "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"},
 
-      {"name": "Map 6",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
+      {"name": "Overtime",
+      "by": "Chimeray",
+      "date": "Apr 9, 2011",
+      "url": "https://example.com/map1.zip",
+      "description": "The level starts off after a long day of work, but it's not over yet because Faith gets a call to do some overtime. You must retrieve a bag inside a building that Celeste hid because she dropped out, so you need to finish her assignment instead.",
+      "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"},
 
-      {"name": "Map 7",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 8",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 9",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 10",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 11",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 12",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 13",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 14",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 15",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 16",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 17",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 18",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 19",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 20",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 21",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 23",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"},
-
-      {"name": "Map 24",
-      "url": "https://example.com/map2.zip",
-      "description": "Description here"}
+      {"name": "Freeway",
+      "by": "Blueberry_pie",
+      "date": "Apr 15th, 20009",
+      "url": "https://example.com/map1.zip",
+      "description": "The map takes place on a small part of a freeway where people drive too fast and too close to each other. There's no goal and not much parkour involved either. You can just run around dodging traffic or go surfing on cars, which can be fun for a while. However, the cars don't damage you, and jumping from one car to another isn't possible, unfortunately.",
+      "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true"}
 
     ],
     "Custom Time Trials": [
-      {"name": "Trial 1", "url": "https://example.com/trial1.zip", "description": "Description here"}
+
+      {"name": "Sianvar",
+      "by": "Keku",
+      "date": "May 23rd, 2023",
+      "url": "https://example.com/trial1.zip",
+      "description": "Sianvar is one of the biggest custom time trial maps ever made, explore the vast and unexplored dream world of Faith and get yourself lost."},
+
+      {"name": "Glitchergrounded",
+      "by": "Odjur",
+      "date": "Jul 16th, 2022",
+      "url": "https://example.com/trial1.zip",
+      "description": "An extremely difficult glitchless execution test for speedrunners. This map is not intended for casual players. If you are a speedrunner and want to test your knowledge of speed tech, this is the place to do it. That being said, every section of this time trial can be completed glitchless, as all maps should be."},
+
+      {"name": "Luna",
+      "by": "ToastyGoblin",
+      "date": "Jul 7th, 2021",
+      "url": "https://example.com/trial1.zip",
+      "description": "Luna is a custom Coastal Forest time trial."},
+
+      {"name": "Descend",
+      "by": "steveglowplunk",
+      "date": "Jan 27th, 2020",
+      "url": "https://example.com/trial1.zip",
+      "description": "No description."},
+
+      {"name": "Twilight",
+      "by": "ToastyGoblin",
+      "date": "Sep 27th, 2019",
+      "url": "https://example.com/trial1.zip",
+      "description": "Twilight is a custom city time trial."},
+
+      {"name": "Vertex",
+      "by": "steveglowplunk",
+      "date": "Aug 3rd, 2019",
+      "url": "https://example.com/trial1.zip",
+      "description": "Vertex is a custom time trial with a slightly retro style."},
+
+      {"name": "Void",
+      "by": "ToastyGoblin",
+      "date": "Jun 12th, 2019",
+      "url": "https://example.com/trial1.zip",
+      "description": "Void is a custom abstract time trial."},
+
+      {"name": "Anti Gravity",
+      "by": "ToastyGoblin",
+      "date": "Feb 12th, 2019",
+      "url": "https://example.com/trial1.zip",
+      "description": "Anti Gravity is a custom abstract time trial."},
+
+      {"name": "Sol",
+      "by": "ToastyGoblin",
+      "date": "Dec 7th, 2018",
+      "url": "https://example.com/trial1.zip",
+      "description": "Sol is a custom abstract time trial."},
+
+      {"name": "Angles II",
+      "by": "Keku",
+      "date": "Feb 27th, 2017",
+      "url": "https://example.com/trial1.zip",
+      "description": "This mod is a standalone time trial for Mirror's Edge that is very similiar to one of my older maps I released in 2015."},
+
+      {"name": "Angles II",
+      "by": "Keku",
+      "date": "Feb 27th, 2017",
+      "url": "https://example.com/trial1.zip",
+      "description": "This mod is a standalone time trial for Mirror's Edge that is very similiar to one of my older maps I released in 2015."}
+
     ],
     "Story Experiences": [
-      {"name": "Rainy Mod", "url": "https://example.com/story1.zip", "description": "Rainy Mod is a WIP project with the envision to make the whole game with a rainy weather mood. It contains Real Time Reflections, Parallax Cube Maps, dynamic wet/dry clothing, new rain particles, new sounds and more. The following mod contains Training Zone and Prologue, both can be played through the story mode and/or do Time Trials on them.", "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/1.jpg?raw=true"}
+
+      {"name": "Rainy Mod",
+      "by": "Keku",
+      "date": "Sep 7th, 2018",
+      "url": "https://example.com/story1.zip",
+      "description": "Rainy Mod is a WIP project with the aim to make the whole game with a rainy weather mood. It contains Real Time Reflections, Parallax Cube Maps, dynamic wet/dry clothing, new rain particles, new sounds and more. The following mod contains Training Zone and Prologue, either can be played in story mode or as time trials.",
+      "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/1.jpg?raw=true"},
+
+      {"name": "Floor Is Lava",
+      "by": "Keku",
+      "date": "Sep 7th, 2018",
+      "url": "https://example.com/story1.zip",
+      "description": "Remember when you used to play floor is lava when you were a kid? Now you can also do it in Mirror's Edge! Push the in-game mechanics as far as you can, and remember, no hitting the floor if you don't want to die. P.S. Not for casual players, difficulty level is over 9000.",
+      "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/1.jpg?raw=true"}
+
     ]
   }
   
