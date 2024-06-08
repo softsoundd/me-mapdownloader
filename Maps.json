@@ -1272,7 +1272,7 @@
     "date": "Jan 29th, 2009",
     "url": "https://example.com/map1.zip",
     "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
-    "maps": [
+    "packedmaps": [
       {"FriendlyName": "ACTINO",
       "MapFileName": "TT_Actino",
       "StretchNameId": "ETTS_TutorialA01",
@@ -1369,7 +1369,7 @@
     "date": "2014-current",
     "url": "https://example.com/map1.zip",
     "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
-    "maps": [
+    "packedmaps": [
       {"FriendlyName": "Convoy 4",
       "Description": "A Time Trial by nulaft.",
       "MapFileName": "TT_Convoy_4",
