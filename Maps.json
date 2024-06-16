@@ -723,7 +723,7 @@
 
     {"FriendlyName": "Rendering World 2.0",
     "author": "Keku645",
-    "date": "Sep 9th, 2016",
+    "date": "Dec 27th, 2014",
     "url": "https://example.com/map1.zip",
     "image": "https://github.com/softsoundd/me-mapdownloader/blob/main/RenderingWorld.jpg?raw=true",
     "Description": "Rendering World 2.0 is a reimagined and extended version of the previous one.",
@@ -1397,15 +1397,32 @@
     "url": "https://example.com/map1.zip",
     "image": "https://media.moddb.com/cache/images/downloads/1/236/235278/thumb_620x2000/vlcsnap-2022-07-17-06h20m54s512.jpg",
     "Description": "An extremely difficult glitchless execution test for speedrunners. This map is not intended for casual players. If you are a speedrunner and want to test your knowledge of speed tech, this is the place to do it. That being said, every section of this time trial can be completed glitchless, as all maps should be.",
+    "MapFileName": "TT_Glitchergrounded",
     "StretchNameId": "ETTS_TutorialA01"},
 
-    {"FriendlyName": "Luna",
+    {"packname": "Luna",
+    "packdescription": "Luna is a collection of three custom Coastal Forest time trials.",
     "author": "ToastyGoblin",
     "date": "Jul 7th, 2021",
     "url": "https://example.com/map1.zip",
-    "image": "https://media.moddb.com/images/members/4/3261/3260990/profile/Luna_02.jpg",
-    "Description": "Luna is a custom Coastal Forest time trial.",
-    "StretchNameId": "ETTS_TutorialA01"},
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "packedmaps": [
+      {"FriendlyName": "Luna 1",
+      "Description": "Luna is a custom Coastal Forest time trial for Mirror's Edge.",
+      "MapFileName": "TT_Luna_1",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Luna 2",
+      "Description": "Luna is a custom Coastal Forest time trial for Mirror's Edge.",
+      "MapFileName": "TT_Luna_2",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Luna 3",
+      "Description": "Luna is a custom Coastal Forest time trial for Mirror's Edge.",
+      "MapFileName": "TT_Luna_3",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
 
     {"FriendlyName": "Descend",
     "author": "steveglowplunk",
@@ -1413,15 +1430,32 @@
     "url": "https://example.com/map1.zip",
     "image": "https://media.moddb.com/images/members/5/4116/4115374/profile/MirrorsEdge_2020-01-26_23-19-06.png",
     "Description": "No description.",
+    "MapFileName": "TT_Descend",
     "StretchNameId": "ETTS_TutorialA01"},
 
-    {"FriendlyName": "Twilight",
+    {"packname": "Twilight",
+    "packdescription": "Twilight is a collection of three custom nighttime city time trials.",
     "author": "ToastyGoblin",
     "date": "Sep 27th, 2019",
     "url": "https://example.com/map1.zip",
-    "image": "https://media.moddb.com/images/members/4/3261/3260990/profile/20190926203033_1.jpg",
-    "Description": "Twilight is a custom city time trial.",
-    "StretchNameId": "ETTS_TutorialA01"},
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "packedmaps": [
+      {"FriendlyName": "Twilight 1",
+      "Description": "Twilight is a custom nighttime city time trial.",
+      "MapFileName": "TT_Twilight_1",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Twilight 2",
+      "Description": "Twilight is a custom nighttime city time trial.",
+      "MapFileName": "TT_Twilight_2",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Twilight 3",
+      "Description": "Twilight is a custom nighttime city time trial.",
+      "MapFileName": "TT_Twilight_3",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
 
     {"FriendlyName": "Vertex",
     "author": "steveglowplunk",
@@ -1429,6 +1463,7 @@
     "url": "https://example.com/map1.zip",
     "image": "https://media.moddb.com/images/members/5/4116/4115374/profile/MirrorsEdge_2019-08-05_21-31-16.png",
     "Description": "Vertex is a custom time trial with a slightly retro style.",
+    "MapFileName": "TT_Vertex",
     "StretchNameId": "ETTS_TutorialA01"},
 
     {"FriendlyName": "Void",
@@ -1437,6 +1472,7 @@
     "url": "https://example.com/map1.zip",
     "image": "https://media.moddb.com/images/members/4/3261/3260990/profile/20190607120231_1.jpg",
     "Description": "Void is a custom abstract time trial.",
+    "MapFileName": "TT_Void",
     "StretchNameId": "ETTS_TutorialA01"},
 
     {"FriendlyName": "Anti Gravity",
@@ -1445,6 +1481,7 @@
     "url": "https://example.com/map1.zip",
     "image": "https://media.moddb.com/images/downloads/1/175/174465/auto/3VtR0Ka.jpg",
     "Description": "Anti Gravity is a custom abstract time trial.",
+    "MapFileName": "TT_Anti_Gravity",
     "StretchNameId": "ETTS_TutorialA01"},
 
     {"FriendlyName": "Sol",
@@ -1453,22 +1490,40 @@
     "url": "https://example.com/map1.zip",
     "image": "https://media.moddb.com/images/downloads/1/172/171781/auto/off8wfNl.jpg",
     "Description": "Sol is a custom abstract time trial.",
+    "MapFileName": "TT_Sol",
     "StretchNameId": "ETTS_TutorialA01"},
 
-    {"FriendlyName": "Residential (TT version)",
+    {"packname": "Residential (TT version)",
+    "packdescription": "No description.",
     "author": "Artemy",
     "date": "Sep 13th, 2017",
-    "url": "https://example.com/map1.zip",      
-    "image": "https://media.moddb.com/cache/images/downloads/1/127/126369/thumb_620x2000/protothumb.png",
-    "Description": "No description.",
-    "StretchNameId": "ETTS_TutorialA01"},
+    "url": "https://example.com/map1.zip",
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "packedmaps": [
+      {"FriendlyName": "Residential 1",
+      "Description": "A Time Trial by Artemy.",
+      "MapFileName": "TT_Residential_1",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Residential 2",
+      "Description": "A Time Trial by Artemy.",
+      "MapFileName": "TT_Residential_2",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Residential 3",
+      "Description": "A Time Trial by Artemy.",
+      "MapFileName": "TT_Residential_3",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
 
     {"FriendlyName": "Angles II",
-    "author": "Keku645",
+    "author": "ToastyGoblin",
     "date": "Feb 27th, 2017",
     "url": "https://example.com/map1.zip",
     "image": "https://media.moddb.com/images/downloads/1/120/119060/auto/32952413842_1252b59d.jpg",
     "Description": "This mod is a standalone time trial for Mirror's Edge that is very similiar to one of my older maps I released in 2015.",
+    "MapFileName": "TT_Angles_2",
     "StretchNameId": "ETTS_TutorialA01"}
 
   ],
