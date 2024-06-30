@@ -81,6 +81,14 @@
     "CheckpointDDescription": "Top of the world.",
     "NumberOfCheckpoints": "4"},
 
+    {"FriendlyName": "The Ambush",
+    "author": "Simone Doliana",
+    "date": "Aug 27th, 2022",
+    "url": "https://example.com/map1.zip",
+    "image": "https://media.moddb.com/cache/images/downloads/1/238/237395/thumb_620x2000/Img_Cover.jpg",
+    "Description": "This map is a work in progress. Jump and run over moving platforms to discover information about Icarus! Faith can control crane movements that will allow her to get to the objective and also to leave it, if lucky enough.",
+    "MapFileName": "Prison_Break"},
+
     {"FriendlyName": "Prison Break",
     "author": "Koce92",
     "date": "Jul 15th, 2022",
@@ -198,6 +206,24 @@
     "Description": "A custom map by Glost999.",
     "MapFileName": "Oranga"},
 
+    {"packname": "Freedom Modding House Edition",
+    "packdescription": "Freedom: Modding House Edition is an abandoned project by NostalgiasEdge. Contains morning and night versions.",
+    "author": "NostalgiasEdge",
+    "date": "Oct 21st, 2018",
+    "url": "https://www.dropbox.com/scl/fi/h6j1eb95crd05akzh837m/Faith-in-Aperture-Science.zip?rlkey=fsq4vm1zfbc3jsqj2gox1l7rq&st=2ug7hajy&dl=1",
+    "zipsize": "419109796",
+    "image": "https://i.ytimg.com/vi/xydazg8_GwY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6W2uBzVaSCssN8GZ7OXKz4TYuAw",
+    "packedmaps": [
+      {"FriendlyName": "Freedom: Modding House Edition - Morning",
+      "Description": "Freedom: Modding House Edition is an abandoned project by NostalgiasEdge. Morning version of the map.",
+      "MapFileName": "MH_Morning"},
+
+      {"FriendlyName": "Freedom: Modding House Edition - Night",
+      "Description": "Freedom: Modding House Edition is an abandoned project by NostalgiasEdge. Night version of the map.",
+      "MapFileName": "MH_Night"}
+      ]
+    },
+
     {"FriendlyName": "The City at Alert",
     "author": "steveglowplunk",
     "date": "Aug 20th, 2018",
@@ -234,7 +260,7 @@
     "Description": "The events that follow immediately after the Flight chapter (strays from the established lore).",
     "MapFileName": "Afterflight_p"},
 
-    {"FriendlyName": "Residential (non-TT version)",
+    {"FriendlyName": "Residential (Freeroam)",
     "author": "Artemy",
     "date": "Sep 13th, 2017",
     "url": "https://example.com/map1.zip",      
@@ -443,9 +469,9 @@
     "Description": "A custom map by Stas.",
     "MapFileName": "Evening_Walk"},
 
-    {"FriendlyName": "Stark Concrete (non-TT version)",
+    {"FriendlyName": "Stark Concrete (Freeroam)",
     "author": "edgie",
-    "date": "Jun 29th, 2010",
+    "date": "Jun 27th, 2010",
     "url": "https://example.com/map1.zip",
     "image": "https://media.moddb.com/cache/images/mods/1/18/17576/thumb_620x2000/overtime2.jpg",
     "Description": "The freeroam version of edgie's Stark Concrete map.",
@@ -459,6 +485,14 @@
     "image": "https://media.moddb.com/cache/images/mods/1/18/17576/thumb_620x2000/overtime2.jpg",
     "Description": "A custom map by MSIP35.",
     "MapFileName": "Faith_Flight_p"},
+
+    {"FriendlyName": "Playground",
+    "author": "XPxpanderXP",
+    "date": "Jan 5th, 2010",
+    "url": "https://example.com/map1.zip",
+    "image": "https://media.moddb.com/cache/images/mods/1/18/17576/thumb_620x2000/overtime2.jpg",
+    "Description": "A custom map by XPxpanderXP.",
+    "MapFileName": "Playground"},
 
     {"FriendlyName": "Freeway",
     "author": "Blueberry_pie",
@@ -474,7 +508,7 @@
   "Custom Time Trials": [
 
     {"packname": "Pure Time Trials (DLC maps)",
-    "packdescription": "Mirror's Edge gameplay distilled down to its purest form and its purest vision in nine races across eight all-new and totally redesigned Time Trial maps. No cops, no guns, no city. Pure aesthetics, agility and flow that will challenge any Runner. Note: Includes PS3-exclusive Synesthesia map and Keku's Actino Ultra map.",
+    "packdescription": "Mirror's Edge gameplay distilled down to its purest form and its purest vision in nine races across eight all-new and totally redesigned Time Trial maps. No cops, no guns, no city. Pure aesthetics, agility and flow that will challenge any Runner. Note — Includes PS3-exclusive Synesthesia map and Keku's Actino Ultra map.",
     "author": "DICE",
     "date": "Jan 29th, 2009",
     "url": "https://www.dropbox.com/scl/fi/4vcedhhalf2hxqxol00gk/Pure-Time-Trials-DLC-maps.zip?rlkey=eqnfqff2ubrm9271flzwr1kk5&st=tcppg2qq&dl=1",
@@ -726,7 +760,7 @@
     "MapFileName": "TT_Sol",
     "StretchNameId": "ETTS_TutorialA01"},
 
-    {"packname": "Residential (TT version)",
+    {"packname": "Residential (Time Trial)",
     "packdescription": "The time trial version of Artemy's Residential map, featuring three trials.",
     "author": "Artemy",
     "date": "Sep 13th, 2017",
@@ -858,7 +892,43 @@
       "MapFileName": "TT_Vertigo",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
-    }
+    },
+
+    {"FriendlyName": "Rooftops",
+    "author": "Taplonaplo",
+    "date": "Jun 28th, 2010",
+    "url": "https://example.com/map1.zip",
+    "image": "https://media.moddb.com/cache/images/downloads/1/25/24591/thumb_620x2000/rprev.jpg",
+    "Description": "A custom time trial by Taplonaplo.",
+    "MapFileName": "TT_Rooftops",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "Glitcherground",
+    "author": "Taplonaplo",
+    "date": "Jun 28th, 2010",
+    "url": "https://example.com/map1.zip",
+    "image": "https://media.moddb.com/images/downloads/1/120/119060/auto/32952413842_1252b59d.jpg",
+    "Description": "This time trial tests how well you know the glitches in the game.",
+    "MapFileName": "TT_Glitcherground",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "Stark Concrete (Time Trial)",
+    "author": "edgie",
+    "date": "Jun 27th, 2010",
+    "url": "https://example.com/map1.zip",
+    "image": "https://media.moddb.com/cache/images/downloads/1/25/24560/thumb_620x2000/Stark00.jpg",
+    "Description": "This time trial tests how well you know the glitches in the game.",
+    "MapFileName": "TT_Stark_Concrete",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "Vistacular",
+    "author": "Distastee",
+    "date": "Feb 6th, 2010",
+    "url": "https://example.com/map1.zip",
+    "image": "https://media.moddb.com/images/downloads/1/120/119060/auto/32952413842_1252b59d.jpg",
+    "Description": "The level is really meant to be a sculpture of sorts - so there's no \"speed running\" or \"checkpoints\". Basically, it's one giant puzzle. You can get to nearly everywhere in the map if you're creative enough. For those that make it, I left a little something for you to enjoy.",
+    "MapFileName": "TT_Vistacular",
+    "StretchNameId": "ETTS_TutorialA01"}
 
   ],
 
