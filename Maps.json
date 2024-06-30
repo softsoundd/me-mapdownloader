@@ -1,7 +1,7 @@
 {
   "Custom Maps": [
 
-    {"FriendlyName": "Prelude to a Eulogy (Unfinished)",
+    {"FriendlyName": "Prelude to a Eulogy",
     "author": "Keku645",
     "date": "Jan 25th, 2024",
     "url": "https://example.com/map1.zip",
@@ -565,14 +565,39 @@
     "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
     "packedmaps": [
       {"FriendlyName": "Convoy 4",
-      "Description": "A Time Trial by nulaft.",
+      "Description": "A time trial by nulaft.",
       "MapFileName": "TT_Convoy_4",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Cranes 3",
-      "Description": "A Time Trial by nulaft.",
+      "Description": "A time trial by nulaft.",
       "MapFileName": "TT_Cranes_3",
       "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
+
+    {"packname": "TG's DLC Time Trials Series 4",
+    "packdescription": "A custom time trial pack for Mirror's Edge containing 3 maps in the style of the DLC.",
+    "author": "ToastyGoblin",
+    "date": "Jun 15th, 2024",
+    "url": "https://www.dropbox.com/scl/fi/gdc6g9v0o0g4uv7rsm9k3/Residential-TT-version.zip?rlkey=c9l6bn83do0p3gnvm4178jje0&st=ai3y9yqf&dl=1",
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "zipsize": "103233458",
+    "packedmaps": [
+      {"FriendlyName": "Anti Gravity 2",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Anti_Gravity_2",
+      "StretchNameId": "ETTS_EscapeA01"},
+
+      {"FriendlyName": "Rise",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Rise",
+      "StretchNameId": "ETTS_TutorialA03"},
+
+      {"FriendlyName": "Take Flight",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Take_Flight",
+      "StretchNameId": "ETTS_EdgeA01"}
       ]
     },
 
@@ -604,17 +629,17 @@
       {"FriendlyName": "Luna 1",
       "Description": "Luna is a custom Coastal Forest time trial for Mirror's Edge.",
       "MapFileName": "TT_Luna_1",
-      "StretchNameId": "ETTS_TutorialA01"},
+      "StretchNameId": "ETTS_EdgeA01"},
 
       {"FriendlyName": "Luna 2",
       "Description": "Luna is a custom Coastal Forest time trial for Mirror's Edge.",
       "MapFileName": "TT_Luna_2",
-      "StretchNameId": "ETTS_TutorialA01"},
+      "StretchNameId": "ETTS_EscapeA01"},
 
       {"FriendlyName": "Luna 3",
       "Description": "Luna is a custom Coastal Forest time trial for Mirror's Edge.",
       "MapFileName": "TT_Luna_3",
-      "StretchNameId": "ETTS_TutorialA01"}
+      "StretchNameId": "ETTS_EscapeB01"}
       ]
     },
 
@@ -696,17 +721,17 @@
     "zipsize": "103233458",
     "packedmaps": [
       {"FriendlyName": "Residential 1",
-      "Description": "A Time Trial by Artemy.",
+      "Description": "A time trial by Artemy.",
       "MapFileName": "TT_Residential_1",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Residential 2",
-      "Description": "A Time Trial by Artemy.",
+      "Description": "A time trial by Artemy.",
       "MapFileName": "TT_Residential_2",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Residential 3",
-      "Description": "A Time Trial by Artemy.",
+      "Description": "A time trial by Artemy.",
       "MapFileName": "TT_Residential_3",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
@@ -719,7 +744,107 @@
     "image": "https://media.moddb.com/images/downloads/1/120/119060/auto/32952413842_1252b59d.jpg",
     "Description": "This mod is a standalone time trial for Mirror's Edge that is very similiar to one of my older maps I released in 2015.",
     "MapFileName": "TT_Angles_2",
-    "StretchNameId": "ETTS_TutorialA01"}
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"packname": "TG's DLC Time Trials Series 3",
+    "packdescription": "A custom time trial pack for Mirror's Edge containing 3 maps in the style of the DLC.",
+    "author": "ToastyGoblin",
+    "date": "May 12th, 2016",
+    "url": "https://www.dropbox.com/scl/fi/gdc6g9v0o0g4uv7rsm9k3/Residential-TT-version.zip?rlkey=c9l6bn83do0p3gnvm4178jje0&st=ai3y9yqf&dl=1",
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "zipsize": "103233458",
+    "packedmaps": [
+      {"FriendlyName": "Force",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Force",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Prism",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Prism",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Synergy",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Synergy",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
+
+    {"packname": "TG's DLC Time Trials Series 2",
+    "packdescription": "A custom time trial pack for Mirror's Edge containing 3 maps in the style of the DLC.",
+    "author": "ToastyGoblin",
+    "date": "Apr 12th, 2016",
+    "url": "https://www.dropbox.com/scl/fi/gdc6g9v0o0g4uv7rsm9k3/Residential-TT-version.zip?rlkey=c9l6bn83do0p3gnvm4178jje0&st=ai3y9yqf&dl=1",
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "zipsize": "103233458",
+    "packedmaps": [
+      {"FriendlyName": "Actino World",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Actino_World",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Focus",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Focus",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Razzmataz Rebuilt",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Razzmataz_Rebuilt",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
+
+    {"packname": "TG's DLC Time Trials Series 1",
+    "packdescription": "A custom time trial pack for Mirror's Edge containing 3 maps in the style of the DLC.",
+    "author": "ToastyGoblin",
+    "date": "Dec 27th, 2015",
+    "url": "https://www.dropbox.com/scl/fi/gdc6g9v0o0g4uv7rsm9k3/Residential-TT-version.zip?rlkey=c9l6bn83do0p3gnvm4178jje0&st=ai3y9yqf&dl=1",
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "zipsize": "103233458",
+    "packedmaps": [
+      {"FriendlyName": "Ascension",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Ascension",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Angles",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Angles",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Fragmented",
+      "Description": "A time trial by ToastyGoblin.",
+      "MapFileName": "TT_Fragmented",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
+
+    {"packname": "Taplonaplo's Map Pack",
+    "packdescription": "A custom time trial pack for Mirror's Edge containing 3 maps in the style of the DLC.",
+    "author": "Taplonaplo",
+    "date": "Jun 28th, 2010",
+    "url": "https://www.dropbox.com/scl/fi/gdc6g9v0o0g4uv7rsm9k3/Residential-TT-version.zip?rlkey=c9l6bn83do0p3gnvm4178jje0&st=ai3y9yqf&dl=1",
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "zipsize": "103233458",
+    "packedmaps": [
+      {"FriendlyName": "Flux",
+      "Description": "A time trial by Taplonaplo.",
+      "MapFileName": "TT_Flux",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Impulse",
+      "Description": "A time trial by Taplonaplo.",
+      "MapFileName": "TT_Impulse",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Vertigo",
+      "Description": "A time trial by Taplonaplo.",
+      "MapFileName": "TT_Vertigo",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    }
 
   ],
 
