@@ -659,12 +659,12 @@
     "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
     "packedmaps": [
       {"FriendlyName": "Convoy 4",
-      "Description": "A time trial by nulaft.",
+      "Description": "A custom time trial by nulaft.",
       "MapFileName": "TT_Convoy_4",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Cranes 3",
-      "Description": "A time trial by nulaft.",
+      "Description": "A custom time trial by nulaft.",
       "MapFileName": "TT_Cranes_3",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
@@ -679,17 +679,17 @@
     "zipsize": "103233458",
     "packedmaps": [
       {"FriendlyName": "Anti Gravity 2",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Anti_Gravity_2",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Rise",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Rise",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Take Flight",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Take_Flight",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
@@ -738,6 +738,76 @@
       "StretchNameId": "ETTS_TutorialA01"}
       ]
     },
+
+    {"FriendlyName": "Nihility",
+    "author": "Keku645",
+    "date": "Oct 12th, 2020",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "d7yy4lqd",
+    "image": "https://media.moddb.com/images/downloads/1/172/171781/auto/off8wfNl.jpg",
+    "Description": "A custom time trial by Keku645.",
+    "MapFileName": "TT_Nihility",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "Tetrahedral",
+    "author": "Keku645",
+    "date": "Oct 10th, 2020",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "dy11g8pd",
+    "image": "https://media.moddb.com/cache/images/downloads/1/251/250650/thumb_620x2000/Mirrors_Edge_Screenshot_2023.05.png",
+    "Description": "A custom time trial by Keku645.",
+    "MapFileName": "TT_Tetrahedral",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"packname": "Shard Daytime",
+    "packdescription": "Daytime version of the Shard time trials.",
+    "author": "Keku645",
+    "date": "Apr 22nd, 2020",
+    "url": "https://www.dropbox.com/scl/fi/gdc6g9v0o0g4uv7rsm9k3/Residential-TT-version.zip?rlkey=c9l6bn83do0p3gnvm4178jje0&st=ai3y9yqf&dl=1",
+    "image": "https://media.moddb.com/cache/images/downloads/1/76/75101/thumb_620x2000/1.png",
+    "zipsize": "103233458",
+    "packedmaps": [
+      {"FriendlyName": "Shard One Daytime",
+      "Description": "Daytime version of Shard One.",
+      "MapFileName": "TT_Scraper1_DayTime",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Shard Two Daytime",
+      "Description": "Daytime version of Shard Two.",
+      "MapFileName": "TT_Scraper2_DayTime",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
+
+    {"packname": "Atrium Nighttime",
+    "packdescription": "Nighttime version of the Atrium time trials.",
+    "author": "Keku645",
+    "date": "Apr 15th, 2020",
+    "url": "https://www.dropbox.com/scl/fi/gdc6g9v0o0g4uv7rsm9k3/Residential-TT-version.zip?rlkey=c9l6bn83do0p3gnvm4178jje0&st=ai3y9yqf&dl=1",
+    "image": "https://media.moddb.com/cache/images/downloads/1/76/75101/thumb_620x2000/1.png",
+    "zipsize": "103233458",
+    "packedmaps": [
+      {"FriendlyName": "Atrium One Nighttime",
+      "Description": "Nighttime version of Atrium One.",
+      "MapFileName": "TT_Atrium_Nighttime_1",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Atrium Two Nighttime",
+      "Description": "Nighttime version of Atrium Two.",
+      "MapFileName": "TT_Atrium_Nighttime_2",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
+
+    {"FriendlyName": "Ezra",
+    "author": "Keku645",
+    "date": "Feb 14th, 2020",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "9zpp2zxw",
+    "image": "https://media.moddb.com/images/downloads/1/172/171781/auto/off8wfNl.jpg",
+    "Description": "A custom time trial by Keku645.",
+    "MapFileName": "TT_Ezra",
+    "StretchNameId": "ETTS_TutorialA01"},
 
     {"FriendlyName": "Descend",
     "author": "steveglowplunk",
@@ -793,6 +863,16 @@
     "MapFileName": "TT_Void",
     "StretchNameId": "ETTS_TutorialA01"},
 
+    {"FriendlyName": "Tattoo City",
+    "author": "Keku645",
+    "date": "Mar 14th, 2019",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "93qq4y2w",
+    "image": "https://i.ytimg.com/vi/19NWhNUu_d0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvUmXTActdvlpPeHg0uajX1n3whw",
+    "Description": "A custom time trial by Keku645.",
+    "MapFileName": "TT_Tattoo_City",
+    "StretchNameId": "ETTS_TutorialA01"},
+
     {"FriendlyName": "Anti Gravity",
     "author": "ToastyGoblin",
     "date": "Feb 12th, 2019",
@@ -801,6 +881,26 @@
     "image": "https://media.moddb.com/images/downloads/1/175/174465/auto/3VtR0Ka.jpg",
     "Description": "Anti Gravity is a custom abstract time trial.",
     "MapFileName": "TT_Anti_Gravity",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "Persian Suburbs",
+    "author": "Keku645",
+    "date": "Jan 19th, 2019",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "9vmm7jq9",
+    "image": "https://media.moddb.com/images/downloads/1/172/171781/auto/off8wfNl.jpg",
+    "Description": "A time trial inspired by Prince of Persia 3.",
+    "MapFileName": "TT_Persian_Suburbs",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "Blitz",
+    "author": "Keku645",
+    "date": "Jan 17th, 2019",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "9m55xxzd",
+    "image": "https://media.moddb.com/images/downloads/1/172/171781/auto/off8wfNl.jpg",
+    "Description": "A custom time trial by Keku645.",
+    "MapFileName": "TT_Blitz",
     "StretchNameId": "ETTS_TutorialA01"},
 
     {"FriendlyName": "Sol",
@@ -822,21 +922,71 @@
     "zipsize": "103233458",
     "packedmaps": [
       {"FriendlyName": "Residential 1",
-      "Description": "A time trial by Artemy.",
+      "Description": "A custom time trial by Artemy.",
       "MapFileName": "TT_Residential_1",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Residential 2",
-      "Description": "A time trial by Artemy.",
+      "Description": "A custom time trial by Artemy.",
       "MapFileName": "TT_Residential_2",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Residential 3",
-      "Description": "A time trial by Artemy.",
+      "Description": "A custom time trial by Artemy.",
       "MapFileName": "TT_Residential_3",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
     },
+
+    {"FriendlyName": "Yugen",
+    "author": "Keku645",
+    "date": "Sep 28th, 2017",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "wo776qv9",
+    "image": "https://media.moddb.com/images/downloads/1/120/119060/auto/32952413842_1252b59d.jpg",
+    "Description": "A custom time trial by Keku645.",
+    "MapFileName": "TT_Yugen",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "YntrynsiK",
+    "author": "Keku645",
+    "date": "Sep 17th, 2017",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "wj77z1rw",
+    "image": "https://media.moddb.com/images/downloads/1/120/119060/auto/32952413842_1252b59d.jpg",
+    "Description": "A custom time trial by Keku645.",
+    "MapFileName": "TT_YntrynsiK",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"packname": "Greeble",
+    "packdescription": "A custom time trial pack by Keku645.",
+    "author": "Keku645",
+    "date": "May 20th, 2017",
+    "url": "https://www.dropbox.com/scl/fi/gdc6g9v0o0g4uv7rsm9k3/Residential-TT-version.zip?rlkey=c9l6bn83do0p3gnvm4178jje0&st=ai3y9yqf&dl=1",
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "zipsize": "103233458",
+    "packedmaps": [
+      {"FriendlyName": "Greeble",
+      "Description": "A custom time trial by Keku645.",
+      "MapFileName": "TT_Greeble",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Greeble Redux",
+      "Description": "A custom time trial by Keku645.",
+      "MapFileName": "TT_Greeble_Redux",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
+
+    {"FriendlyName": "Maze",
+    "author": "Keku645",
+    "date": "Mar 15th, 2017",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "we225nlw",
+    "image": "https://media.moddb.com/images/downloads/1/120/119060/auto/32952413842_1252b59d.jpg",
+    "Description": "A labyrinth map as a time trial.",
+    "MapFileName": "TT_Maze",
+    "StretchNameId": "ETTS_TutorialA01"},
 
     {"FriendlyName": "Angles 2",
     "author": "ToastyGoblin",
@@ -848,6 +998,16 @@
     "MapFileName": "TT_Angles_2",
     "StretchNameId": "ETTS_TutorialA01"},
 
+    {"FriendlyName": "Hexagoner Redux",
+    "author": "Keku645",
+    "date": "Feb 23rd, 2017",
+    "url": "https://example.com/map1.zip",
+    "speedrunid": "9vmm72q9",
+    "image": "https://media.moddb.com/images/downloads/1/120/119060/auto/32952413842_1252b59d.jpg",
+    "Description": "A custom time trial by Keku645.",
+    "MapFileName": "TT_Hexagoner_Redux",
+    "StretchNameId": "ETTS_TutorialA01"},
+
     {"packname": "TG's DLC Time Trials Series 3",
     "packdescription": "A custom time trial pack for Mirror's Edge containing 3 maps in the style of the DLC.",
     "author": "ToastyGoblin",
@@ -857,17 +1017,17 @@
     "zipsize": "103233458",
     "packedmaps": [
       {"FriendlyName": "Force",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Force",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Prism",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Prism",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Synergy",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Synergy",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
@@ -882,17 +1042,17 @@
     "zipsize": "103233458",
     "packedmaps": [
       {"FriendlyName": "Actino World",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Actino_World",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Focus",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Focus",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Razzmataz Rebuilt",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Razzmataz_Rebuilt",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
@@ -907,18 +1067,43 @@
     "zipsize": "103233458",
     "packedmaps": [
       {"FriendlyName": "Ascension",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Ascension",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Angles",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Angles",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Fragmented",
-      "Description": "A time trial by ToastyGoblin.",
+      "Description": "A custom time trial by ToastyGoblin.",
       "MapFileName": "TT_Fragmented",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
+
+    {"packname": "Mirror's Edge 2 E3 2014",
+    "packdescription": "Time trial map based on the prototype Mirror's Edge Catalyst map shown at E3 2014.",
+    "author": "Keku645",
+    "date": "Jun 16th, 2015",
+    "url": "https://www.dropbox.com/scl/fi/gdc6g9v0o0g4uv7rsm9k3/Residential-TT-version.zip?rlkey=c9l6bn83do0p3gnvm4178jje0&st=ai3y9yqf&dl=1",
+    "image": "https://www.speedrun.com/static/theme/9wpd0kvw/background.png?v=fffcace0",
+    "zipsize": "103233458",
+    "packedmaps": [
+      {"FriendlyName": "Mirror's Edge 2 E3 2014 - 1",
+      "Description": "Time trial map based on the prototype Mirror's Edge Catalyst map shown at E3 2014.",
+      "MapFileName": "TT_ME2_1",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Mirror's Edge 2 E3 2014 - 2",
+      "Description": "Time trial map based on the prototype Mirror's Edge Catalyst map shown at E3 2014.",
+      "MapFileName": "TT_ME2_2",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Mirror's Edge 2 E3 2014 - 3",
+      "Description": "Time trial map based on the prototype Mirror's Edge Catalyst map shown at E3 2014.",
+      "MapFileName": "TT_ME2_3",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
     },
@@ -932,12 +1117,12 @@
     "zipsize": "103233458",
     "packedmaps": [
       {"FriendlyName": "Xirion 1",
-      "Description": "A time trial by Keku645.",
+      "Description": "A custom time trial by Keku645.",
       "MapFileName": "TT_Xirion_1",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Xirion 2",
-      "Description": "A time trial by Keku645.",
+      "Description": "A custom time trial by Keku645.",
       "MapFileName": "TT_Xirion_2",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
@@ -952,17 +1137,17 @@
     "zipsize": "103233458",
     "packedmaps": [
       {"FriendlyName": "Stratocubulus 1",
-      "Description": "A time trial by Keku645. Original map by anamorphonic.",
+      "Description": "A custom time trial by Keku645. Original map by anamorphonic.",
       "MapFileName": "TT_Stratocubulus_1",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Stratocubulus 2",
-      "Description": "A time trial by Keku645. Original map by anamorphonic.",
+      "Description": "A custom time trial by Keku645. Original map by anamorphonic.",
       "MapFileName": "TT_Stratocubulus_2",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Stratocubulus 3",
-      "Description": "A time trial by Keku645. Original map by anamorphonic.",
+      "Description": "A custom time trial by Keku645. Original map by anamorphonic.",
       "MapFileName": "TT_Stratocubulus_3",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
@@ -977,17 +1162,17 @@
     "zipsize": "103233458",
     "packedmaps": [
       {"FriendlyName": "Flux",
-      "Description": "A time trial by Taplonaplo.",
+      "Description": "A custom time trial by Taplonaplo.",
       "MapFileName": "TT_Flux",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Impulse",
-      "Description": "A time trial by Taplonaplo.",
+      "Description": "A custom time trial by Taplonaplo.",
       "MapFileName": "TT_Impulse",
       "StretchNameId": "ETTS_TutorialA01"},
 
       {"FriendlyName": "Vertigo",
-      "Description": "A time trial by Taplonaplo.",
+      "Description": "A custom time trial by Taplonaplo.",
       "MapFileName": "TT_Vertigo",
       "StretchNameId": "ETTS_TutorialA01"}
       ]
