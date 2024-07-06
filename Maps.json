@@ -93,7 +93,7 @@
     "zipsize": "7937720",
     "image": "https://media.moddb.com/cache/images/downloads/1/238/237395/thumb_620x2000/Img_Cover.jpg",
     "Description": "This map is a work in progress. Jump and run over moving platforms to discover information about Icarus! Faith can control crane movements that will allow her to get to the objective and also to leave it, if lucky enough.",
-    "MapFileName": "Prison_Break"},
+    "MapFileName": "MM_p"},
 
     {"FriendlyName": "Prison Break",
     "author": "Koce92",
@@ -554,7 +554,7 @@
   "Custom Time Trials": [
 
     {"packname": "Pure Time Trials (DLC maps)",
-    "packdescription": "Mirror's Edge gameplay distilled down to its purest form and its purest vision in nine races across eight all-new and totally redesigned Time Trial maps. No cops, no guns, no city. Pure aesthetics, agility and flow that will challenge any Runner. Note — Includes PS3-exclusive Synesthesia map and Keku's Actino Ultra map.",
+    "packdescription": "Mirror's Edge gameplay distilled down to its purest form and its purest vision in nine races across eight all-new and totally redesigned Time Trial maps. No cops, no guns, no city. Pure aesthetics, agility and flow that will challenge any Runner.\n\nNote — DLC maps appear in the regular time trials tab. Includes PS3-exclusive Synesthesia map and Keku's Actino Ultra map.",
     "author": "DICE",
     "date": "Jan 29th, 2009",
     "url": "https://www.dropbox.com/scl/fi/5k63twf449vyyyz67w674/Pure-Time-Trials-DLC-Maps.zip?rlkey=cfxwt8snpw1d9fu3rs54v761g&st=o1bcru9m&dl=1",
@@ -1291,6 +1291,7 @@
     "author": "ToastyGoblin",
     "date": "Jul 14th, 2015",
     "url": "https://www.dropbox.com/scl/fi/0mb59hfg7rjwvsaxua592/Reflexed.zip?rlkey=n8yt0pxtitn0yms6bvh2rn858&st=m88g7qot&dl=1",
+    "speedrunid": "9gyy4jj9",
     "zipsize": "18140364",
     "image": "https://media.moddb.com/cache/images/downloads/1/25/24591/thumb_620x2000/rprev.jpg",
     "Description": "This time trial massively extends the Reflex DLC Time Trial.",
