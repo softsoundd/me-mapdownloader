@@ -103,7 +103,7 @@
     "speedrunid": "d0kkqgj9",
     "image": "https://media.moddb.com/cache/images/downloads/1/236/235254/thumb_620x2000/PrisonBreakSplash.jpg",
     "Description": "Prison level inspired by the concept art.",
-    "MapFileName": "Prison_Break"},
+    "MapFileName": "Prison_p"},
 
     {"FriendlyName": "Into the Abyss",
     "author": "FNG_Creepa",
@@ -330,7 +330,7 @@
     "speedrunid": "93qq47rw",
     "image": "https://media.moddb.com/images/downloads/1/79/78634/auto/nScMuhu.jpg",
     "Description": "Rendering World 2.0 is a reimagined and extended version of the previous one.",
-    "MapFileName": "Rendering_World_2",
+    "MapFileName": "Rendering_p",
     "CheckpointAFriendlyName": "CHECKPOINT A",
     "CheckpointAFileName": "Start.",
     "CheckpointADescription": "Start of the adventure.",
