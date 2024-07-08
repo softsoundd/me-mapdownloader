@@ -1,0 +1,43 @@
+[Scene_3 UIDataProvider_TdCustomSceneStretch]
+FriendlyName=Rainy Mod
+Description=Rainy Mod is a WIP project with the aim to make the whole game with a rainy weather mood. It contains Real Time Reflections, Parallax Cube Maps, dynamic wet/dry clothing, new rain particles, new sounds and more. The following mod contains Training Zone and Prologue, either can be played in story mode or as time trials.
+SceneNumber=Scene3
+
+[Scene3_New_Game UIDataProvider_TdScene3NewGame]
+MapFilename=New_Game_Rain_Tutorial_p
+
+[Scene3_CHAPTER1 UIDataProvider_TdScene3ChapterSelectStretch]
+FriendlyName=EDGE
+MapFilename=Rain_edge_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=After_Intro
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Rooftop_Action
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=SWAT_Response
+NumberOfCheckpoints=4
+
+[Scene3_TT_STRETCH0 UIDataProvider_TdScene3TimeTrialStretch]
+MapFilename=rain_tt_TutorialA01_p
+FriendlyName=PLAYGROUND 1
+StretchNameId=ETTS_TutorialA01
+
+[Scene3_TT_STRETCH1 UIDataProvider_TdScene3TimeTrialStretch]
+MapFilename=rain_tt_TutorialA02_p
+FriendlyName=PLAYGROUND 2
+StretchNameId=ETTS_TutorialA02
+
+[Scene3_TT_STRETCH2 UIDataProvider_TdScene3TimeTrialStretch]
+MapFilename=rain_tt_TutorialA03_p
+FriendlyName=PLAYGROUND 3
+StretchNameId=ETTS_TutorialA03
+
+[Scene3_TT_STRETCH3 UIDataProvider_TdScene3TimeTrialStretch]
+MapFilename=rain_tt_EdgeA01_p
+FriendlyName=EDGE
+StretchNameId=ETTS_EdgeA01
+
+[Scene3_STRETCH0 UIDataProvider_TdScene3LevelRaceStretch]
+FriendlyName=EDGE
+MapFilename=Race_Rain_edge_p
