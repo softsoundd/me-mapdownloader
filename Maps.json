@@ -1711,6 +1711,7 @@
     "date": "Jul 25th, 2020",
     "url": "https://www.dropbox.com/scl/fi/nkxj6x3xviv5um5jbemr2/OneTouch-Platforms.zip?rlkey=9w9xom2kv0knv8cjywaciu2bi&st=cafnjgb3&dl=1",
     "configurl": "https://github.com/softsoundd/me-mapdownloader/raw/main/Story%20Experiences/Rainy%20Mod",
+    "tdgameuiscene": "Scene3=Rainy Mod",
     "Description": "Rainy Mod is a WIP project with the aim to make the whole game with a rainy weather mood. It contains Real Time Reflections, Parallax Cube Maps, dynamic wet/dry clothing, new rain particles, new sounds and more. The following mod contains Training Zone and Prologue, either can be played in story mode or as time trials.",
     "image": "https://live.staticflickr.com/65535/53843016358_7b9c64ec7a_z.jpg"},
 
@@ -1719,6 +1720,7 @@
     "date": "Sep 7th, 2018",
     "url": "https://www.dropbox.com/scl/fi/nkxj6x3xviv5um5jbemr2/OneTouch-Platforms.zip?rlkey=9w9xom2kv0knv8cjywaciu2bi&st=cafnjgb3&dl=1",
     "configurl": "https://github.com/softsoundd/me-mapdownloader/raw/main/Story%20Experiences/Floor%20is%20Lava",
+    "tdgameuiscene": "Scene2=Floor Is Lava",
     "Description": "Remember when you used to play floor is lava when you were a kid? Now you can also do it in Mirror's Edge! Push the in-game mechanics as far as you can, and remember, no hitting the floor if you don't want to die. P.S. Not for casual players, difficulty level is over 9000.",
     "image": "https://live.staticflickr.com/65535/53842752171_969c35bb2a_z.jpg"}
 
