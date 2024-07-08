@@ -1,0 +1,308 @@
+[Scene_2 UIDataProvider_TdCustomSceneStretch]
+FriendlyName=Floor Is Lava
+Description=Remember when you used to play floor is lava when you were a kid? Now you can also do it in Mirror's Edge! Push the in-game mechanics as far as you can, and remember, no hitting the floor if you don't want to die. P.S. Not for casual players, difficulty level is over 9000.
+SceneNumber=Scene2
+
+[Scene2_New_Game UIDataProvider_TdScene2NewGame]
+MapFilename=New_Game_Lava_Tutorial_p
+
+[Scene2_CHAPTER1 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=THE EDGE
+MapFilename=Lava_Edge_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=After_Intro
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Rooftop_Action
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=SWAT_Response
+NumberOfCheckpoints=4
+
+[Scene2_CHAPTER2 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=FLIGHT
+MapFilename=Lava_Escape_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=Office
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Chase
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=Avenue
+CheckpointEFriendlyName=CHECKPOINT E
+CheckpointEFileName=Plaza
+NumberOfCheckpoints=5
+
+[Scene2_CHAPTER3 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=JACKNIFE
+MapFilename=Lava_Stormdrain_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=Container
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Gate1
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=Chute2
+CheckpointEFriendlyName=CHECKPOINT E
+CheckpointEFileName=Construction
+CheckpointFFriendlyName=CHECKPOINT F
+CheckpointFFileName=ChaseJK
+CheckpointGFriendlyName=CHECKPOINT G
+CheckpointGFileName=JKfight
+NumberOfCheckpoints=7
+
+[Scene2_CHAPTER4 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=HEAT
+MapFilename=Lava_Cranes_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=SP03_Office_01
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=SP03_Rooftop_01
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=SP03_Plaza_01
+NumberOfCheckpoints=4
+
+[Scene2_CHAPTER5 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=ROPEBURN
+MapFilename=Lava_Subway_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=Subway_bossfight
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Renovation_Fight
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=Subway_Station
+CheckpointEFriendlyName=CHECKPOINT E
+CheckpointEFileName=Subway_Tunnels
+CheckpointFFriendlyName=CHECKPOINT F
+CheckpointFFileName=Train_Ride
+NumberOfCheckpoints=6
+
+[Scene2_CHAPTER6 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=NEW EDEN
+MapFilename=Lava_Mall_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=CombatRooftops
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Stretch
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=Mall
+NumberOfCheckpoints=4
+
+[Scene2_CHAPTER7 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=PIRANDELLO KRUGER
+MapFilename=Lava_Factory_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=Loading_bay
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Conveyor_puzzle
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=Training_area
+CheckpointEFriendlyName=CHECKPOINT E
+CheckpointEFileName=Pursuit_chase
+NumberOfCheckpoints=5
+
+[Scene2_CHAPTER8 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=THE BOAT
+MapFilename=Lava_Boat_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=CarDeck
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Ventilation
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=TopBoat
+CheckpointEFriendlyName=CHECKPOINT E
+CheckpointEFileName=Celeste_chase
+CheckpointFFriendlyName=CHECKPOINT F
+CheckpointFFileName=Celeste
+NumberOfCheckpoints=6
+
+[Scene2_CHAPTER9 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=KATE
+MapFilename=Lava_Convoy_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=Stretch2
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Atrium
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=Sniper
+CheckpointEFriendlyName=CHECKPOINT E
+CheckpointEFileName=Atrium_soft_cp
+NumberOfCheckpoints=5
+
+[Scene2_CHAPTER10 UIDataProvider_TdScene2ChapterSelectStretch]
+FriendlyName=THE SHARD
+MapFilename=Lava_Scraper_p
+CheckpointAFriendlyName=CHECKPOINT A
+CheckpointBFriendlyName=CHECKPOINT B
+CheckpointBFileName=Carpark
+CheckpointCFriendlyName=CHECKPOINT C
+CheckpointCFileName=Lobby
+CheckpointDFriendlyName=CHECKPOINT D
+CheckpointDFileName=Elevator_shaft
+CheckpointEFriendlyName=CHECKPOINT E
+CheckpointEFileName=Rooftops
+CheckpointFFriendlyName=CHECKPOINT F
+CheckpointFFileName=Server_room
+CheckpointGFriendlyName=CHECKPOINT G
+CheckpointGFileName=End_game
+NumberOfCheckpoints=7
+
+[Scene2_TT_STRETCH0 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_TT_TutorialA01_p
+FriendlyName=PLAYGROUND 1
+StretchNameId=ETTS_TutorialA01
+
+[Scene2_TT_STRETCH1 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_TT_TutorialA02_p
+FriendlyName=PLAYGROUND 2
+StretchNameId=ETTS_TutorialA02
+
+[Scene2_TT_STRETCH2 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_TT_TutorialA03_p
+FriendlyName=PLAYGROUND 3
+StretchNameId=ETTS_TutorialA03
+
+[Scene2_TT_STRETCH3 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_EdgeA01_p
+FriendlyName=EDGE
+StretchNameId=ETTS_EdgeA01
+
+[Scene2_TT_STRETCH4 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_EscapeB01_p
+FriendlyName=ARLAND
+StretchNameId=ETTS_EscapeB01
+
+[Scene2_TT_STRETCH5 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_EscapeA01_p
+FriendlyName=FLIGHT
+StretchNameId=ETTS_EscapeA01
+
+[Scene2_TT_STRETCH6 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_StormdrainA02_p
+FriendlyName=CHASE
+StretchNameId=ETTS_StormdrainA02
+
+[Scene2_TT_STRETCH7 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_StormdrainB01_p
+FriendlyName=STORMDRAINS ONE
+StretchNameId=ETTS_StormdrainB01
+
+[Scene2_TT_STRETCH8 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_StormdrainB02_p
+FriendlyName=STORMDRAINS TWO
+StretchNameId=ETTS_StormdrainB02
+
+[Scene2_TT_STRETCH9 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_StormdrainB03_p
+FriendlyName=STORMDRAINS THREE
+StretchNameId=ETTS_StormdrainB03
+
+[Scene2_TT_STRETCH10 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_CranesA01_p
+FriendlyName=HEAT
+StretchNameId=ETTS_CranesA01
+
+[Scene2_TT_STRETCH11 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_CranesC01_p
+FriendlyName=BURFIELD
+StretchNameId=ETTS_CranesC01
+
+[Scene2_TT_STRETCH12 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_CranesB02_p
+FriendlyName=CRANES ONE
+StretchNameId=ETTS_CranesB02
+
+[Scene2_TT_STRETCH13 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_CranesB01_p
+FriendlyName=CRANES TWO
+StretchNameId=ETTS_CranesB01
+
+[Scene2_TT_STRETCH14 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_MallA01_p
+FriendlyName=NEW EDEN
+StretchNameId=ETTS_MallA01
+
+[Scene2_TT_STRETCH15 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_FactoryA01_p
+FriendlyName=FACTORY
+StretchNameId=ETTS_FactoryA01
+
+[Scene2_TT_STRETCH16 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_CranesD01_p
+FriendlyName=OFFICE
+StretchNameId=ETTS_CranesD01
+
+[Scene2_TT_STRETCH17 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_ConvoyB01_p
+FriendlyName=CONVOY ONE
+StretchNameId=ETTS_ConvoyB01
+
+[Scene2_TT_STRETCH18 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_ConvoyB02_p
+FriendlyName=CONVOY TWO
+StretchNameId=ETTS_ConvoyB02
+
+[Scene2_TT_STRETCH19 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_ConvoyA01_p
+FriendlyName=ATRIUM ONE
+StretchNameId=ETTS_ConvoyA01
+
+[Scene2_TT_STRETCH20 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_ConvoyA02_p
+FriendlyName=ATRIUM TWO
+StretchNameId=ETTS_ConvoyA02
+
+[Scene2_TT_STRETCH21 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_ScraperA01_p
+FriendlyName=SHARD ONE
+StretchNameId=ETTS_SkyscraperA01
+
+[Scene2_TT_STRETCH22 UIDataProvider_TdScene2TimeTrialStretch]
+MapFilename=Lava_tt_ScraperB01_p
+FriendlyName=SHARD TWO
+StretchNameId=ETTS_SkyscraperB01
+
+[Scene2_STRETCH0 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=THE EDGE
+MapFilename=Race_Lava_Edge_p
+
+[Scene2_STRETCH1 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=FLIGHT
+MapFilename=Race_Lava_Escape_p
+
+[Scene2_STRETCH2 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=JACKNIFE
+MapFilename=Race_Lava_Stormdrain_p
+
+[Scene2_STRETCH3 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=HEAT
+MapFilename=Race_Lava_Cranes_p
+
+[Scene2_STRETCH4 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=ROPEBURN
+MapFilename=Race_Lava_Subway_p
+
+[Scene2_STRETCH5 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=NEW EDEN
+MapFilename=Race_Lava_Mall_p
+
+[Scene2_STRETCH6 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=PIRANDELLO KRUGER
+MapFilename=Race_Lava_Factory_p
+
+[Scene2_STRETCH7 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=THE BOAT
+MapFilename=Race_Lava_Boat_p
+
+[Scene2_STRETCH8 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=KATE
+MapFilename=Race_Lava_Convoy_p
+
+[Scene2_STRETCH9 UIDataProvider_TdScene2LevelRaceStretch]
+FriendlyName=THE SHARD
+MapFilename=Race_Lava_Scraper_p
