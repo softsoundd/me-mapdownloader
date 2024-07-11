@@ -1026,6 +1026,17 @@
     "MapFileName": "TT_Void",
     "StretchNameId": "ETTS_TutorialA01"},
 
+    {"FriendlyName": "Breeze",
+    "author": "steveglowplunk",
+    "date": "Apr 6th, 2019",
+    "url": "https://www.dropbox.com/scl/fi/id9atv0t59644xh8fkp8q/Breeze.zip?rlkey=u9xxg8ng4p36jh2395ldqwdh5&st=vnlmvm2v&dl=1",
+    "zipsize": "4697620",
+    "speedrunid": "d40022q9",
+    "image": "https://live.staticflickr.com/65535/53849621475_eaa009346b_z.jpg",
+    "Description": "Breeze is a custom time trial with a retro style. Dying spawns you back at the start, be careful!",
+    "MapFileName": "TT_Breeze",
+    "StretchNameId": "ETTS_TutorialA01"},
+
     {"FriendlyName": "Tattoo City",
     "author": "Keku",
     "date": "Mar 14th, 2019",
