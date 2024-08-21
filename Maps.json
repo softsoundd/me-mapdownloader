@@ -179,6 +179,16 @@
     "Description": "Faith has to deliver a bag to Celeste in a sunrise city while most of the town is still sleeping.",
     "MapFileName": "armistice_p"},
 
+    {"FriendlyName": "The Floating City",
+    "author": "Evan06",
+    "date": "Jul 17th, 2020",
+    "url": "https://www.dropbox.com/scl/fi/vfgfis2z8h7g83vemrs0q/The-Floating-City.zip?rlkey=b2orp5uvsk2gjwjzh7c0na2u2&st=qan4ult9&dl=1",
+    "zipsize": "53633922",
+    "speedrunid": "9m5epk0d", 
+    "image": "https://live.staticflickr.com/65535/53938114849_87f9c46524_z.jpg",
+    "Description": "A custom map by Evan06.",
+    "MapFileName": "The_Floating_City"},
+
     {"FriendlyName": "The Mysterious City",
     "author": "V Wings",
     "date": "May 31st, 2020",
