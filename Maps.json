@@ -1,6 +1,16 @@
 {
   "Custom Maps": [
 
+    {"FriendlyName": "Daybreak",
+    "author": "Cratornugget",
+    "date": "Aug 27th, 2024",
+    "url": "https://www.dropbox.com/scl/fi/l1t1pj39qqp6ig0i94c2i/Daybreak.zip?rlkey=n6gqkuyomdlgpvptp2qd1gml1&st=g5hievdj&dl=1",
+    "zipsize": "855025818",
+    "speedrunid": "920jz13d",
+    "image": "https://live.staticflickr.com/65535/53951068165_a2da18b536_z.jpg",
+    "Description": "Pretty short/simple map that I've been working on and off for a few years now but I finally finished it.",
+    "MapFileName": "Daybreak_p"},
+
     {"FriendlyName": "Prelude to a Eulogy",
     "author": "Keku",
     "date": "Jan 25th, 2024",
