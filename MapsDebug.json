@@ -1,6 +1,16 @@
 {
   "Custom Maps": [
 
+    {"FriendlyName": "Daybreak",
+    "author": "Cratornugget",
+    "date": "Aug 27th, 2024",
+    "url": "https://www.dropbox.com/scl/fi/l1t1pj39qqp6ig0i94c2i/Daybreak.zip?rlkey=n6gqkuyomdlgpvptp2qd1gml1&st=g5hievdj&dl=1",
+    "zipsize": "855025818",
+    "speedrunid": "920jz13d",
+    "image": "https://live.staticflickr.com/65535/53951068165_a2da18b536_z.jpg",
+    "Description": "Pretty short/simple map that I've been working on and off for a few years now but I finally finished it.",
+    "MapFileName": "Daybreak_p"},
+
     {"FriendlyName": "Prelude to a Eulogy",
     "author": "Keku",
     "date": "Jan 25th, 2024",
@@ -178,6 +188,16 @@
     "image": "https://media.moddb.com/cache/images/downloads/1/200/199496/thumb_620x2000/1.png",
     "Description": "Faith has to deliver a bag to Celeste in a sunrise city while most of the town is still sleeping.",
     "MapFileName": "armistice_p"},
+
+    {"FriendlyName": "The Floating City",
+    "author": "Evan06",
+    "date": "Jul 17th, 2020",
+    "url": "https://www.dropbox.com/scl/fi/vfgfis2z8h7g83vemrs0q/The-Floating-City.zip?rlkey=b2orp5uvsk2gjwjzh7c0na2u2&st=qan4ult9&dl=1",
+    "zipsize": "53633640",
+    "speedrunid": "d1jj27yd", 
+    "image": "https://live.staticflickr.com/65535/53938114849_87f9c46524_z.jpg",
+    "Description": "A custom map by Evan06.",
+    "MapFileName": "The_Floating_City"},
 
     {"FriendlyName": "The Mysterious City",
     "author": "V Wings",
@@ -360,6 +380,7 @@
     "date": "Sep 4th, 2014",
     "url": "https://www.dropbox.com/scl/fi/6f2dqcd0wt10a2u1jl7l4/Rendering-World.zip?rlkey=tsn9fe6x140ubd11w7xqestw4&st=bob0qwyb&dl=1",
     "zipsize": "13170114",
+    "speedrunid": "w6qv31rd",
     "image": "https://media.moddb.com/cache/images/downloads/1/75/74249/thumb_620x2000/me1.jpg",
     "Description": "This map contains over 30 minutes of gameplay, 15 hidden bags, a lot of places to explore, and a lot of routes to take.",
     "MapFileName": "Rendering_World"},
@@ -652,6 +673,131 @@
       "Rating1Time": "65",
       "Rating2Time": "53",
       "Rating3Time": "48"}
+      ]
+    },
+
+    {"packname": "Backwards Time Trials",
+    "packdescription": "Original time trials, but played in reverse! These trials are not beginner friendly.",
+    "author": "Toyro98.",
+    "date": "Apr 1st, 2021",
+    "url": "https://www.dropbox.com/scl/fi/12gyygao674mmm9ghq26a/Backwards-Time-Trials.zip?rlkey=94w9gd8ibv7yc9y1x5dh5d3xv&st=5xzngjnu&dl=1",
+    "zipsize": "653906",
+    "image": "https://live.staticflickr.com/65535/53840983260_97fc951a74_z.jpg",
+    "packedmaps": [
+      {"FriendlyName": "Backwards Playground One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_TutorialA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Playground Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_TutorialA02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Playground Three",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_TutorialA03_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Edge",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_EdgeA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Arland",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_EscapeB01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Flight",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_EscapeA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Chase",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_StormdrainA02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Stormdrains One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_StormdrainB01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Stormdrains Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_StormdrainB02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Stormdrains Three",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_StormdrainB03_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Heat",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Burfield",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesC01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Cranes One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesB02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Cranes Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesB01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards New Eden",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_MallA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Factory",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_FactoryA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Office",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesD01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Convoy One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ConvoyB01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Convoy Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ConvoyB02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Atrium One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ConvoyA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Atrium Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ConvoyA02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Shard One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ScraperA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Shard Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ScraperB01_p",
+      "StretchNameId": "ETTS_TutorialA01"}
       ]
     },
 
@@ -1024,6 +1170,17 @@
     "image": "https://media.moddb.com/images/members/4/3261/3260990/profile/20190608172349_1.jpg",
     "Description": "Void is a custom abstract time trial.",
     "MapFileName": "TT_Void",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "Breeze",
+    "author": "steveglowplunk",
+    "date": "Apr 6th, 2019",
+    "url": "https://www.dropbox.com/scl/fi/id9atv0t59644xh8fkp8q/Breeze.zip?rlkey=u9xxg8ng4p36jh2395ldqwdh5&st=vnlmvm2v&dl=1",
+    "zipsize": "4697620",
+    "speedrunid": "d40022q9",
+    "image": "https://live.staticflickr.com/65535/53849621475_eaa009346b_z.jpg",
+    "Description": "Breeze is a custom time trial with a retro style. Dying spawns you back at the start, be careful!",
+    "MapFileName": "TT_Breeze",
     "StretchNameId": "ETTS_TutorialA01"},
 
     {"FriendlyName": "Tattoo City",
@@ -1713,7 +1870,7 @@
     {"FriendlyName": "Rainy Mod",
     "author": "Keku",
     "date": "Jul 25th, 2020",
-    "url": "https://www.dropbox.com/scl/fi/qf09tsioljyuxz7m3hei5/Playground.zip?rlkey=qqik8z0xbm43n9keulv801t81&st=um6tck1h&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/x4xg3nvleiodhtqaee13r/Rainy-Mod.zip?rlkey=z0bf2dk9jml09zpz86p1jik15&st=c9lawycx&dl=1",
     "zipsize": "1095216660",
     "configurl": "https://github.com/softsoundd/me-mapdownloader/raw/main/Story%20Experiences/Rainy%20Mod",
     "tdgameuiscene": "Scene3=Rainy Mod",
