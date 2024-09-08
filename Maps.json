@@ -676,6 +676,131 @@
       ]
     },
 
+    {"packname": "Backwards Time Trials",
+    "packdescription": "Original time trials, but played in reverse! These trials are not beginner friendly.",
+    "author": "Toyro98",
+    "date": "Apr 1st, 2021",
+    "url": "https://www.dropbox.com/scl/fi/12gyygao674mmm9ghq26a/Backwards-Time-Trials.zip?rlkey=94w9gd8ibv7yc9y1x5dh5d3xv&st=vyg9iqd9&dl=1",
+    "zipsize": "653906",
+    "image": "https://live.staticflickr.com/65535/53979082511_a6a6586c6d_z.jpg",
+    "packedmaps": [
+      {"FriendlyName": "Backwards Playground One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_TutorialA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Playground Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_TutorialA02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Playground Three",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_TutorialA03_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Edge",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_EdgeA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Arland",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_EscapeB01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Flight",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_EscapeA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Chase",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_StormdrainA02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Stormdrains One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_StormdrainB01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Stormdrains Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_StormdrainB02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Stormdrains Three",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_StormdrainB03_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Heat",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Burfield",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesC01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Cranes One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesB02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Cranes Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesB01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards New Eden",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_MallA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Factory",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_FactoryA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Office",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_CranesD01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Convoy One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ConvoyB01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Convoy Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ConvoyB02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Atrium One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ConvoyA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Atrium Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ConvoyA02_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Shard One",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ScraperA01_p",
+      "StretchNameId": "ETTS_TutorialA01"},
+
+      {"FriendlyName": "Backwards Shard Two",
+      "Description": "Original time trials, but played in reverse! These trials are not beginner friendly. Made by Toyro98.",
+      "MapFileName": "TT_Backwards_ScraperB01_p",
+      "StretchNameId": "ETTS_TutorialA01"}
+      ]
+    },
+
     {"packname": "Classic Time Trials Redux",
     "packdescription": "A collection of original maps with custom time trial checkpoint placements.",
     "author": "Keku, nulaft & Toyro98.",
