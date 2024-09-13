@@ -105,6 +105,15 @@
     "Description": "This map is a work in progress. Jump and run over moving platforms to discover information about Icarus! Faith can control crane movements that will allow her to get to the objective and also to leave it, if lucky enough.",
     "MapFileName": "MM_p"},
 
+    {"FriendlyName": "Mirage",
+    "author": "Nora",
+    "date": "Aug 16th, 2022",
+    "url": "https://www.dropbox.com/scl/fi/h55d601qoi5vjre11lble/Mirage.zip?rlkey=nycf5ivu69ojfyzbnvu8vq22k&st=ut08m5ei&dl=1",
+    "zipsize": "88577748",
+    "image": "https://live.staticflickr.com/65535/53991432577_36aaef9cc2_z.jpg",
+    "Description": "A custom map by Nora.",
+    "MapFileName": "Mirage_p"},
+
     {"FriendlyName": "Prison Break",
     "author": "Koce92",
     "date": "Jul 15th, 2022",
