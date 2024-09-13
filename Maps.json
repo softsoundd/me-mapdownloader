@@ -476,6 +476,52 @@
     "Description": "Based on the 2012 mobile game 'SpeedX'.",
     "MapFileName": "SpeedX_p"},
 
+    {"packname": "China Modding Community Pack",
+    "packdescription": "A collection of maps from the Chinese Mirror's Edge Modding forum, originally hosted on the website known as Baidu Tieba. Majority of these maps are combat/gun arenas with no real goal.",
+    "author": "TheShard, Golden-Haired Sabre, Choking Ace & VictoryKO",
+    "date": "2012",
+    "url": "https://www.dropbox.com/scl/fi/zlg18zfepof8lfv7dmb8e/China-Modding-Community-Pack.zip?rlkey=23a2hhqq0647kjte7fzlxmaie&st=wcntiiqv&dl=1",
+    "zipsize": "112378906",
+    "image": "https://i.ytimg.com/vi/xydazg8_GwY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6W2uBzVaSCssN8GZ7OXKz4TYuAw",
+    "packedmaps": [
+      {"FriendlyName": "BloodStrike",
+      "Description": "A survival mode map where you must defeat waves of enemies with increasing difficulty. Made by TheShard (version 1.4).",
+      "MapFileName": "BloodStrike_p"},
+
+      {"FriendlyName": "Faith vs 2 Celestes",
+      "Description": "A map with not much purpose other than fighting two Celestes at once. Made by Golden-Haired Sabre.",
+      "MapFileName": "Faith_vs_2_Celestes"},
+
+      {"FriendlyName": "Four Walls 1",
+      "Description": "Try to defeat the five enemy snipers while dealing with limited cover. Made by TheShard.",
+      "MapFileName": "Four_Walls_1_p"},
+
+      {"FriendlyName": "Four Walls 2",
+      "Description": "A survival mode map with limited cover where you must defeat waves of enemies with increasing difficulty. Made by TheShard.",
+      "MapFileName": "Four_Walls_2_p"},
+
+      {"FriendlyName": "Golden Islands",
+      "Description": "Parkour across the golden islands while avoiding enemy fire. Made by Choking Ace.",
+      "MapFileName": "Golden_Islands_p"},
+
+      {"FriendlyName": "KO",
+      "Description": "The entire route from the beginning to the end of this map, with its unique textures, style, and the changes in objects along the way, carries deep life significance. Please take time to comprehend its meaning. Made by VictoryKO.",
+      "MapFileName": "KO_p"},
+
+      {"FriendlyName": "Kojima",
+      "Description": "A survival mode map where you must defeat waves of enemies with increasing difficulty. Made by Golden-Haired Sabre.",
+      "MapFileName": "Kojima_p"},
+
+      {"FriendlyName": "Sea Training Ground",
+      "Description": "Parkour across the platforms above the endless sea. Made by Choking Ace.",
+      "MapFileName": "Sea_Training_Ground_p"},
+
+      {"FriendlyName": "Training Ground",
+      "Description": "A map specifically for practicing glitch skills. Made by TheShard.",
+      "MapFileName": "Training_Ground_p"}
+      ]
+    },
+
     {"FriendlyName": "Portal 2 Laboratories",
     "author": "Stas",
     "date": "Aug 10th, 2011",
@@ -1569,6 +1615,28 @@
     "image": "https://live.staticflickr.com/65535/53840971094_6efd468016_z.jpg",
     "Description": "A custom time trial by Stas.",
     "MapFileName": "TT_Paradise",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "Green",
+    "author": "TheShard",
+    "date": "Apr 29th, 2012",
+    "url": "https://www.dropbox.com/scl/fi/xpv51akwnhb0i3lpcvm40/Green.zip?rlkey=yvotqpstf1m1avydar94fu3ia&st=37twq0dc&dl=1",
+    "zipsize": "531805",
+    "speedrunid": "9gyy41q9",
+    "image": "https://live.staticflickr.com/65535/53841063165_c983e85c27_z.jpg",
+    "Description": "A custom time trial by TheShard.",
+    "MapFileName": "TT_Green",
+    "StretchNameId": "ETTS_TutorialA01"},
+
+    {"FriendlyName": "Labyrinth",
+    "author": "Choking Ace",
+    "date": "Mar 14th, 2012",
+    "url": "https://www.dropbox.com/scl/fi/2ae1ssm82mi0ndu221dtd/Labyrinth.zip?rlkey=ftgrk5dlwjks3lyqcyosyli41&st=ykushg1v&dl=1",
+    "zipsize": "1509422",
+    "speedrunid": "9gyy41q9",
+    "image": "https://live.staticflickr.com/65535/53841063165_c983e85c27_z.jpg",
+    "Description": "A custom time trial by Choking Ace.",
+    "MapFileName": "TT_Labyrinth",
     "StretchNameId": "ETTS_TutorialA01"},
 
     {"FriendlyName": "Vivid Sensations",
