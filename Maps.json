@@ -1190,17 +1190,6 @@
     "MapFileName": "TT_Descend",
     "StretchNameId": "ETTS_TutorialA01"},
 
-    {"FriendlyName": "Tech Ground",
-    "author": "Toyro98",
-    "date": "Aug 3rd, 2019",
-    "url": "https://www.dropbox.com/scl/fi/x46atxrd0ybn26wp72vwn/Tech-Ground.zip?rlkey=c3shza0ltxl8l7t1ww65pqcbm&st=21mu6r5f&dl=1",
-    "zipsize": "5106565",
-    "speedrunid": "98rr7grd",
-    "image": "https://live.staticflickr.com/65535/53839707057_796ff5a249_z.jpg",
-    "Description": "A custom time trial by Toyro98.",
-    "MapFileName": "TT_Tech_Ground",
-    "StretchNameId": "ETTS_TutorialA01"},
-
     {"packname": "Twilight",
     "packdescription": "Twilight is a collection of three custom nighttime city time trials.",
     "author": "ToastyGoblin",
